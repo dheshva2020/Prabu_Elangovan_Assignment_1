@@ -1,9 +1,0 @@
-body {
-  font-family: Arial;
-  text-align: center;
-}
-
-button {
-  margin: 5px;
-  padding: 5px 10px;
-}
